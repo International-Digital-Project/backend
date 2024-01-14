@@ -1,0 +1,77 @@
+[
+    {
+        "bookingId": "booking123",
+        "size": "Medium",
+        "weight": 3.7,
+        "senderAddress": "789 Oak Lane, Apt 2B, Los Angeles, 90001, USA",
+        "receiverAddress": {
+            "streetName": "456 Pine Street",
+            "streetNumber": "Unit 3C",
+            "city": "San Francisco",
+            "zipCode": "94101",
+            "country": "USA"
+        },
+        "customerName": "Jane Smith",
+        "customerId": "Cust789"
+    },
+    {
+        "bookingId": "booking456",
+        "size": "Large",
+        "weight": 5.2,
+        "senderAddress": "123 Elm Road, Apt 5D, Chicago, 60601, USA",
+        "receiverAddress": {
+            "streetName": "789 Maple Avenue",
+            "streetNumber": "Unit 2A",
+            "city": "New York",
+            "zipCode": "10001",
+            "country": "USA"
+        },
+        "customerName": "John Doe",
+        "customerId": "Cust123"
+    },
+    {
+        "bookingId": "booking789",
+        "size": "Small",
+        "weight": 1.9,
+        "senderAddress": "567 Birch Street, Apt 1C, Miami, 33101, USA",
+        "receiverAddress": {
+            "streetName": "321 Cedar Avenue",
+            "streetNumber": "Unit 4B",
+            "city": "Houston",
+            "zipCode": "77001",
+            "country": "USA"
+        },
+        "customerName": "Alice Johnson",
+        "customerId": "Cust456"
+    },
+    {
+        "bookingId": "booking987",
+        "size": "Extra Large",
+        "weight": 8.3,
+        "senderAddress": "234 Walnut Lane, Apt 3A, Seattle, 98101, USA",
+        "receiverAddress": {
+            "streetName": "876 Oak Street",
+            "streetNumber": "Unit 1D",
+            "city": "Denver",
+            "zipCode": "80201",
+            "country": "USA"
+        },
+        "customerName": "Michael Brown",
+        "customerId": "Cust234"
+    },
+    {
+        "bookingId": "booking555",
+        "size": "Medium",
+        "weight": 4.5,
+        "senderAddress": "345 Cedar Road, Apt 4E, Boston, 02201, USA",
+        "receiverAddress": {
+            "streetName": "678 Pine Lane",
+            "streetNumber": "Unit 5F",
+            "city": "Las Vegas",
+            "zipCode": "89101",
+            "country": "USA"
+        },
+        "customerName": "David Wilson",
+        "customerId": "Cust555"
+    }
+]
